@@ -12,3 +12,14 @@ components, or subsystems that have been created by mulitple programmers or prog
 This kind of testing typically starts as soon as there are two classes to test and continues until 
 the entire system is complete. It may fall under both white box and black box testing.
 
+System testing is the execution of the software in its final configuration, including integration with other software and hardware systems.
+
+System testing is conducted by the developer.
+
+It is a type of blackbox testing.
+
+To evaluate and validate that the system’s functionality meets the customer’s requirements, standards and business needs before the final delivery.
+
+Acceptance testing is conducted by end-users.
+
+It is a type of whitebox testing.
