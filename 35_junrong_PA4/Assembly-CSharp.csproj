@@ -61,6 +61,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Script\Ball.cs" />
+    <Compile Include="Assets\Script\GameManager.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/Lucifer/OneDrive/Documents/GitHub/35_PA4_junrong/35_junrong_PA4/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
